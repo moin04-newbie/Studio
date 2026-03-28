@@ -32,7 +32,7 @@ export const Hero = () => {
                 textShadow: "0 2px 8px rgba(0, 0, 0, 0.1)",
               }}
             >
-              Design a System <br></br>That Scales
+            Pay and use  <br></br>That Scales
             </h1>
             {/* Mobile/tablet supporting copy */}
             <p className="mt-80 md:mt-90 pb-30 text-sm md:text-base max-w-md mx-auto lg:hidden text-white leading-relaxed">
@@ -69,7 +69,8 @@ export const Hero = () => {
                   letterSpacing: "-0.01em",
                 }}
               >
-                Good design
+               Website is owned by Moin and Raman 
+               website pay us and activate the website 
                 <br />
                 disappears.
                 <br />
