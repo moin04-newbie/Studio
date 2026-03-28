@@ -31,7 +31,7 @@ export const Hero = () => {
                 letterSpacing: "-0.02em",
                 textShadow: "0 2px 8px rgba(0, 0, 0, 0.1)",
               }}
-            >
+            
             Pay and use  <br></br>That Scales
             </h1>
             {/* Mobile/tablet supporting copy */}
