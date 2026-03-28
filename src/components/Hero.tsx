@@ -61,14 +61,14 @@ export const Hero = () => {
               OUR BELIEF
             </p>
             <div className="space-y-4">
-              <h2
+              <h2>
                 className="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 leading-snug"
                 style={{
                   fontFamily:
                     '"Aladin", "Protest Guerrilla", "Roboto", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif',
                   letterSpacing: "-0.01em",
                 }}
-              >>
+              >>>
               
                 <br />
                 disappears.
