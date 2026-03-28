@@ -1,6 +1,5 @@
 import { Header } from "@/components/Header";
 import { ScrollProgress } from "@/components/ScrollProgress";
-import { Hero } from "@/components/Hero";
 import { CaseStudies } from "@/components/CaseStudies";
 import { Expertise } from "@/components/Expertise";
 import { Footer } from "@/components/Footer";
